@@ -4,7 +4,7 @@ program for fibonacci series
 * b is the second term of the series
 * c is the third term of the series
 
-## I use for loop to walk throw the series given terms you can use also while loop.
+## I use for loop to walk through  the series given terms you can use also while loop.
 
 `java
 c = a+b;
